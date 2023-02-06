@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TerraMystics"><img src="logo.jpg" align="center" width=350/></a>
+    <a href="https://github.com/TerraMystics"><img src="logo.jpg" align="center" width=550/></a>
 </p>
 
 <p align="center">
-A lightweight payment management library for terra ecosystem
+The official documentation site for all TerraMystics SDKs & Frameworks
 </p>
 
 <p align="center">
