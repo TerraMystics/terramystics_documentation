@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TerraMystics"><img src="logo.jpg" align="center" width=550/></a>
+    <a href="https://github.com/TerraMystics"><img src="logo.jpg" align="center" width=750/></a>
 </p>
 
 <p align="center">
